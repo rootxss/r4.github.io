@@ -1,8 +1,0 @@
-vendor
-.git
-*.phar
-data
-images
-thumbs
-*.sqlite
-Dockerfile
